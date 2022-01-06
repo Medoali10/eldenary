@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238722631459",
+    "firebase_url": "https://blue-14897-default-rtdb.firebaseio.com",
+    "project_id": "blue-14897",
+    "storage_bucket": "blue-14897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238722631459:android:065e8dfaf1493d7b84ae96",
+        "android_client_info": {
+          "package_name": "com.example.bio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238722631459-41brpgvuhvs0vvc5mq7gbbp6urn6k1s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW094OLdOBp5LvWj2qVrlvz8DqeNKeXFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238722631459-41brpgvuhvs0vvc5mq7gbbp6urn6k1s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
